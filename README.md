@@ -1,6 +1,3 @@
-# minecraft-fabric-best-mods
-
-
 # #01 - Expanded Enderchest
 Expanded Enderchest is a free and open-source mod for Minecraft which doubles the size of your enderchest.
 
