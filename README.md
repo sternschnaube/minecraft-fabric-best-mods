@@ -108,6 +108,65 @@ Improvements for your signs and frames on your Fabric/Quilt server
 
 https://modrinth.com/mod/improved-signs
 
+# #11 - Chunks fade in
+This simple mod adds fade-in animation for chunks, like in Bedrock Edition of Minecraft.
+
+**Client**: Yes
+
+**Server**: No
+
+![image](https://user-images.githubusercontent.com/120551916/226027382-9a33d650-fd00-433d-ad8c-87604f23434d.png)
+
+https://modrinth.com/mod/chunks-fade-in
+
+# #12 - Bobby
+Bobby is a Minecraft mod which allows for render distances greater than the server's view-distance setting.
+
+**Client**: Yes
+
+**Server**: No
+
+![image](https://user-images.githubusercontent.com/120551916/226029311-b3824ee7-efc8-4cb7-b1f8-c0e6e4420519.png)
+
+https://modrinth.com/mod/bobby
+
+# #13 - Keymap
+Visual key remapping mod for Minecraft
+
+**Client**: Yes
+
+**Server**: No
+
+![image](https://user-images.githubusercontent.com/120551916/226030208-71f7455c-ba43-4b8e-a186-e57ac143ff9c.png)
+
+https://modrinth.com/mod/keymap
+
+# #14 - Pickup Notifications
+Show popup notifications when you pick up items.
+
+**Client**: Yes
+
+**Server**: Yes
+
+![image](https://user-images.githubusercontent.com/120551916/226030758-73dfd21b-b3bb-40af-bcf6-85dc7ebc47c2.png)
+
+https://modrinth.com/mod/pickup-notifications
+
+# #15 - Inventory Management
+Sort and transfer items with the click of a button. Adds several buttons to your inventory and containers that let you sort, transfer, and automatically stack your items!
+
+**Client**: Yes
+
+**Server**: Yes
+
+![image](https://user-images.githubusercontent.com/120551916/226031790-abc8c5db-367c-4bab-b305-381c6227fd90.png)
+
+https://modrinth.com/mod/inventory-management
+
+
+
+
+
 
 
 More coming...
