@@ -163,9 +163,34 @@ Sort and transfer items with the click of a button. Adds several buttons to your
 
 https://modrinth.com/mod/inventory-management
 
+# #16 - microDurability
+microDurability is a minimal durability viewer that shows the durability bars of your armor right above the hotbar, without wasting any space. It can also warn you when your tools or armor are about to break.
 
+**Client**: Yes
 
+**Server**: No
 
+![image](https://user-images.githubusercontent.com/120551916/226060883-bf31cb58-05d6-4e20-a78e-74ad66db2481.png)
+
+https://modrinth.com/mod/microdurability
+
+# #17 - InvMove
+Enables moving, jumping, sprinting, etc. from within inventories.
+
+**Client**: Yes
+
+**Server**: No
+
+https://modrinth.com/mod/invmove
+
+# #18 - Wall-Jump!
+Wall to wall platforming in Minecraft! This mod adds wall jumping and double jumping to the game.
+
+**Client**: Yes
+
+**Server**: Yes
+
+https://www.curseforge.com/minecraft/mc-mods/wall-jump-unofficial-arch
 
 
 
